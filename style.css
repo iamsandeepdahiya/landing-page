@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    justify-content: center;
   }
 
 body{
@@ -39,16 +40,30 @@ main{
 
 .slider{
     background-color: #1F2937;
-    color: white;
-}
-
-.contentbox .quote{
-
-    border: 1px solid black;
-    justify-content: space-between;
+    color: #e5e7eb;
+    font-size: 18px;
+    
 }
 
 main h2{
     font-size: 48px;
     color: #f9faf8
+}
+
+button{
+
+    background-color:#3882f6;
+    color:#e5e7eb;
+    border: 1px solid #e5e7eb;
+
+}
+
+.quote{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    height: 30vh;
+    align-items: center;
+
+
 }
