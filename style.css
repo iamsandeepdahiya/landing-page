@@ -139,6 +139,7 @@ button{
     color: #f9faf8;
     justify-content: space-around;
     align-items: center;
+    margin: 50px;
 }
 
 .bottombutton{
